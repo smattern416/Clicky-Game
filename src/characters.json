@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Aphrodite",
+      "image": "../pictures/Aphrodite.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Apollo",
+      "image": "../pictures/Apollo.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Aries",
+      "image": "../pictures/aries2.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Artemis",
+      "image": "../pictures/Artemis.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Athena",
+      "image": "../pictures/Athena-Greek-God.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Hades",
+      "image": "../pictures/Hades.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Hephaestus",
+      "image": "../pictures/Hephaestus.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Hera",
+      "image": "../pictures/Hera.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Hermes",
+      "image": "../pictures/Hermes.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Hestia",
+      "image": "../pictures/hestia.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Poseidon",
+      "image": "../pictures/Poseidon.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Zeus",
+      "image": "../pictures/zeus.jpg"
+    }
+  ]
