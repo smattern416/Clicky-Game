@@ -1,7 +1,7 @@
 import React from 'react';
 import TopBar from './TopBar';
 import InstructionPanel from './InstructionPanel';
-import PicturesPanel from './PicturesPanel';
+import ImagesPanel from './ImagesPanel';
 import images from '../characters.json';
 
 class App extends React.Component {
@@ -59,7 +59,7 @@ class App extends React.Component {
           topScore={this.state.topScore}
         />
         <InstructionPanel />
-        <PicturesPanel
+        <ImagesPanel
           onHandleSuffle={this.onHandleSuffle}
           images={this.state.images}
         />
