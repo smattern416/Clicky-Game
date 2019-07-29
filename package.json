@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/smattern416/Clicky-Game/issues"
   },
-  "homepage": "https://github.com/smattern416/Clicky-Game#readme"
+  "homepage": "https://github.com/smattern416/Clicky-Game#readme",
+  "dependencies": {
+    "react": "^16.8.6"
+  }
 }
